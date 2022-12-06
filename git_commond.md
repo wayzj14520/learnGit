@@ -31,3 +31,5 @@ git push 推送到git仓库
 # create new branch
 
 git branch \<branchName>
+
+git checkout

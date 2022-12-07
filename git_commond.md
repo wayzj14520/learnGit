@@ -6,6 +6,8 @@ git clone 从远程仓库获取到本地
 
 git add \<file> 添加修改的文件
 
+git add . // 添加所有修改的文件
+
 # third
 
 git status 查看当前状态
@@ -54,4 +56,4 @@ git push origin -D \<branchName> // 强制删除远程分支
 
 git push origin dev
 
-#### 如果clone的就是dev分支，则直接使用
+# 解决冲突

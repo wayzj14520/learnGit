@@ -6,6 +6,8 @@ git clone 从远程仓库获取到本地
 
 git add \<file> 添加修改的文件
 
+git add . // 添加所有修改的文件
+
 # third
 
 git status 查看当前状态

@@ -55,5 +55,3 @@ git push origin -D \<branchName> // 强制删除远程分支
 git push origin dev
 
 #### 如果clone的就是dev分支，则直接使用
-
-git push

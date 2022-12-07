@@ -50,10 +50,6 @@ git push origin -D \<branchName> // 强制删除远程分支
 
 # 分支开发完成后需要merge到main分支
 
-#### 如果clone的是main分支，且在dev分支下操作，则push的时候需要使用
+push 的时候，如果当前分支是一个本地创建的分支，需要指定远程仓库名和分支名
 
 git push origin dev
-
-#### 如果clone的就是dev分支，则直接使用
-
-git push

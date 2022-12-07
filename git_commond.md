@@ -40,7 +40,13 @@ git checkout -b \<branchName> // 创建后直接切换过去
 
 # delete branch
 
-git branch -d \<branchName> // 删除分支
+git branch -d \<branchName> // 删除本地分支
+
+git push origin -d \<branchName> // 删除远程分支
+
+git branch -D \<branchName> // 强制删除本地分支
+
+git push origin -D \<branchName> // 强制删除远程分支
 
 # 分支开发完成后需要merge到main分支
 

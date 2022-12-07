@@ -53,3 +53,5 @@ git push origin -D \<branchName> // 强制删除远程分支
 push 的时候，如果当前分支是一个本地创建的分支，需要指定远程仓库名和分支名
 
 git push origin dev
+
+# 解决冲突

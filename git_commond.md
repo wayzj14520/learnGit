@@ -41,3 +41,13 @@ git checkout -b \<branchName> // 创建后直接切换过去
 # delete branch
 
 git branch -d \<branchName> // 删除分支
+
+# 分支开发完成后需要merge到main分支
+
+#### 如果clone的是main分支，且在dev分支下操作，则push的时候需要使用
+
+git push origin dev
+
+#### 如果clone的就是dev分支，则直接使用
+
+git push

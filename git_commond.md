@@ -55,3 +55,5 @@ push 的时候，如果当前分支是一个本地创建的分支，需要指定
 git push origin dev
 
 # 解决冲突
+
+手动解决，然后commit

@@ -37,3 +37,7 @@ git checkout \<branchName> // 切换到该分支
 一行命令
 
 git checkout -b \<branchName> // 创建后直接切换过去
+
+# delete branch
+
+git branch -d \<branchName> // 删除分支

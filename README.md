@@ -1,1 +1,1 @@
-# learn git commond
+# learn git command

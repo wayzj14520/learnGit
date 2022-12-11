@@ -14,6 +14,6 @@ git checkout branchName
 
 or  git checkout -b branchName
 
-git branch -d branchName
+git branch -d branchName 可以使用-D 强制删除
 
-git push origin -d branchName
+git push origin -d branchName 可以使用-D 强制删除

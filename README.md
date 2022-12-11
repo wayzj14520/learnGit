@@ -8,6 +8,8 @@ git commit -m "message info"
 
 git push
 
+git push origin branchName
+
 git branch branchName
 
 git checkout branchName

@@ -74,6 +74,6 @@ git show 5e68b0d8 // 查看任意一个commit，后面加上这个 commit 的引
 
 git show 5e68b0d8 list.txt // 看指定 commit 中的指定文件
 
-git diff // 查看未提交的内容
+git diff // 查看未提交的内容，比对工作目录和暂存区
 
 git diff --staged or --cached // 可以查看暂存区和上一条commit之间有什么不同，也就是当前你所要提交的内容

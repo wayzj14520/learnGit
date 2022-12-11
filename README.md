@@ -16,4 +16,4 @@ or  git checkout -b branchName
 
 git branch -d branchName
 
-git push -d origin branchName
+git push origin -d branchName

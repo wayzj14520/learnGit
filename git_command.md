@@ -22,6 +22,8 @@ git commit 提交到本地仓库
    输入完之后按下esc返回到命令模式，然后连续输入两个大写字母ZZ，就保存并退出了
 ```
 
+或者直接 使用 git commit -m "message"
+
 # fifth
 
 git log 查看提交记录

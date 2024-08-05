@@ -58,6 +58,12 @@ push 的时候，如果当前分支是一个本地创建的分支，需要指定
 
 git push origin dev
 
+git checkout master
+
+git merge dev
+
+git push origin master
+
 # 解决冲突
 
 手动解决，然后commit
